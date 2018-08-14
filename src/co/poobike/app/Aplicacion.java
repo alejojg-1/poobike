@@ -16,7 +16,7 @@ public class Aplicacion {
 		bici.modificarCadencia(80);
 		bici.modificarCambio(5);
 		bici.acelerar(20);
-		bici.frenar(5);
+		bici.frenar(6);
 		
 		System.out.println(bici.verCambio());
 		System.out.println(bici.verCadencia());
